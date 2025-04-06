@@ -1,0 +1,3 @@
+#spring.application.name=Application-Service-Provider
+server:
+  port: 8080
