@@ -1,8 +1,8 @@
-package com.business.controller;
+package com.business.applicationserviceprovider.controller;
 
-import com.business.entity.Do.UserInfoDo;
-import com.business.entity.Dto.UserInfoDto;
-import com.business.share.IUserInfoShare;
+import com.business.applicationserviceprovider.entity.Do.UserInfoDo;
+import com.business.applicationserviceprovider.entity.Dto.UserInfoDto;
+import com.business.applicationserviceprovider.share.IUserInfoShare;
 import org.springframework.stereotype.Controller;
 
 import java.util.Objects;
@@ -21,4 +21,56 @@ public class UserInfoController implements IUserInfoShare {
             return userInfoDto;
         }
     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }

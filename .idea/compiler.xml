@@ -12,7 +12,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="Application-Service-Provider" options="-parameters" />
+      <module name="Application-Service-Provider" options="" />
     </option>
   </component>
 </project>

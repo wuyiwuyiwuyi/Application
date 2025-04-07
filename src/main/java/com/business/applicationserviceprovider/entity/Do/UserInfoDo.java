@@ -1,4 +1,6 @@
-package com.business.entity.Do;
+package com.business.applicationserviceprovider.entity.Do;
+
+
 
 public class UserInfoDo {
 
@@ -11,12 +13,4 @@ public class UserInfoDo {
     public void setName(String name) {
         this.name = name;
     }
-
-    public UserInfoDo(String name) {
-        this.name = name;
-    }
-
-    public UserInfoDo() {
-    }
-
 }

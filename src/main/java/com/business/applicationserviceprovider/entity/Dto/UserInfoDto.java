@@ -1,4 +1,5 @@
-package com.business.entity.Dto;
+package com.business.applicationserviceprovider.entity.Dto;
+
 
 public class UserInfoDto {
 
@@ -17,6 +18,5 @@ public class UserInfoDto {
     }
 
     public UserInfoDto() {
-        super();
     }
 }
